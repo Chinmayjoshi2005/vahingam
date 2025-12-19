@@ -3,3 +3,4 @@ tzdata
 openpyxl
 qrcode
 Pillow
+whitenoise
